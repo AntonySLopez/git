@@ -6,6 +6,6 @@ using namespace std;
 int main() {
     cout<<"nueva linea"<<endl;
     return 0;
-
+    int variable ;
     //nuevo comentario
 }
